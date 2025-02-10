@@ -1,17 +1,15 @@
 # URL Reputation Checker 🔍
 
-A Python-based tool to check website reputation using multiple security services (VirusTotal, Google Safe Browsing, and URLScan.io).
+A Python-based tool to check URL reputation using multiple API (VirusTotal, Google Safe Browsing, and URLScan.io).
 
-![Screenshot](docs/screenshot-1.png)
-
-## Features ✨
+# Features ✨
 - Multi-engine scanning (VirusTotal, Google Safe Browsing, URLScan.io)
 - Color-coded terminal output
 - Detailed threat analysis
 - Domain/IP information lookup
 - API error handling
 
-## Installation 🛠️
+# Installation 🛠️
 
 1. Clone the repository:
 ```bash
