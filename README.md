@@ -42,6 +42,6 @@ python src/checker.py
 ![Screenshot-1](docs/screenshot-2.png)
 
 ## Acknowledgments 🙏
-- VirusTotal API\
-- Google Safe Browsing API\
+- VirusTotal API
+- Google Safe Browsing API
 - URLScan.io API
